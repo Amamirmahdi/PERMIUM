@@ -19,3 +19,4 @@ vless://e84f17ef-96b7-4641-8a0b-749f33e7309c@new.amir-mahdi-maasomian.workers.de
 vless://e84f17ef-96b7-4641-8a0b-749f33e7309c@new.amir-mahdi-maasomian.workers.dev:443?encryption=none&security=tls&sni=new.amir-mahdi-maasomian.workers.dev&fp=chrome&type=ws&host=new.amir-mahdi-maasomian.workers.dev&path=ws&ed=4096#warp2☁️
 vless://e84f17ef-96b7-4641-8a0b-749f33e7309c@new.amir-mahdi-maasomian.workers.dev:443?encryption=none&security=tls&sni=new.amir-mahdi-maasomian.workers.dev&fp=chrome&type=ws&host=new.amir-mahdi-maasomian.workers.dev&path=ws&ed=4096#warp3☁️
 vless://e84f17ef-96b7-4641-8a0b-749f33e7309c@new.amir-mahdi-maasomian.workers.dev:443?encryption=none&security=tls&sni=new.amir-mahdi-maasomian.workers.dev&fp=chrome&type=ws&host=new.amir-mahdi-maasomian.workers.dev&path=ws&ed=4096#ADFREE
+vless://73fe202c-90cc-4441-bd25-021eba39d24b@pprivate12-amir.hf.space:443?encryption=none&security=tls&type=ws&path=%2Fapi%2Fv1%2Fv2%2Famir#america
